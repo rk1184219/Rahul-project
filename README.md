@@ -1,6 +1,6 @@
 # Rahul-project
 This is my first repository.
 <br>
-Author- Rahul yadav.
+Author- Rakesh yadav.
 <br>
-Design by - apana project. 
+Design by - apna project. 
